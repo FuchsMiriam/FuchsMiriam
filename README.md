@@ -120,6 +120,6 @@ GitHub: https://github.com/FuchsMiriam
 
 <div align="center">
 
-Minimal. Structured. Functional.
+Structured. Functional.
 
 </div>
