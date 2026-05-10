@@ -2,16 +2,16 @@
 
 # Miriam Fuchs
 
-### Frontend Developer crafting clean and modern web experiences.
+### Frontend Developer • UI Engineering • Modern Web Applications
 
 <br/>
 
-Building clean interfaces, thoughtful UX and modern frontend experiences.
+Frontend Developer crafting structured, scalable and clean web applications with a focus on usability, design systems and maintainable architecture.
 
 <br/>
 
-<a href="https://miriam-fuchs.net/">Portfolio</a> • 
-<a href="https://github.com/FuchsMiriam">GitHub</a>
+Portfolio: https://miriam-fuchs.net/  
+GitHub: https://github.com/FuchsMiriam
 
 </div>
 
@@ -19,65 +19,107 @@ Building clean interfaces, thoughtful UX and modern frontend experiences.
 
 ## About
 
-Building structured and scalable frontend applications with a focus on usability and design systems.
+Building structured and scalable frontend applications with a strong focus on usability, component-based architecture and clean UI design.
 
 Interested in:
 
-- Frontend Architecture
-- UI / UX
-- Design Systems
-- Modern Web Apps
-- Creative Development
-- AI-assisted workflows
+- Frontend Architecture  
+- UI / UX Design  
+- Design Systems  
+- Angular Applications  
+- Modern Web Development  
+- REST API Integration  
+- AI-assisted Development Workflows  
 
 ---
 
 ## Tech Stack
 
-<div align="left">
-
-Frontend: Angular, HTML, CSS, Material Design  
+Frontend: Angular, TypeScript, HTML, SCSS, Material Design  
 Backend / Services: Firebase, REST APIs  
-Workflow: Scrum / Agile  
-Tools: Git, VS Code, CMS Integration
-
-</div>
+Workflow: Scrum / Agile Development  
+Tools: Git, VS Code, CMS Integration  
 
 ---
 
-## Selected Projects
+## Selected Work
 
-### Angular Applications
-Modern frontend applications built with Angular, focusing on structure, scalability and maintainable code architecture.
+### Join – Task Management Application
+JavaScript • HTML • CSS • Firebase
 
-### UI & Component Design
-Interface-focused development with Material Design, reusable components and clean user experiences.
+A Kanban-style task management application for creating, organizing and tracking tasks using drag-and-drop functionality.
 
-### Firebase Integrations
-Applications with real-time data handling, authentication and backend services powered by Firebase.
+Key Features:
+- Drag & drop task organization  
+- User assignment and categorization  
+- Real-time data storage with Firebase  
+- Responsive and structured UI  
+
+Focus:
+- Dynamic frontend interactions  
+- Firebase integration (data & authentication)  
+- Clean UI architecture  
+- Usability-driven interface design  
+
+---
+
+### El Pollo Loco – 2D Jump & Run Game
+JavaScript • HTML • CSS
+
+A browser-based Jump & Run game built with an object-oriented approach. The player controls Pepe on a mission to collect coins and defeat enemies.
+
+Key Features:
+- Object-oriented game architecture  
+- Collision detection and game physics  
+- Animated characters and environment  
+- Score and collectible system  
+
+Focus:
+- JavaScript OOP patterns  
+- Game logic and state management  
+- Canvas-based animation concepts  
+- Interaction design in games  
+
+---
+
+### Simple CRM – Customer Relationship Management System
+Angular • TypeScript • HTML • SCSS • Firebase
+
+A lightweight CRM application for managing customer data with full CRUD functionality.
+
+Key Features:
+- Create, read, update and delete customer records  
+- Angular component-based architecture  
+- Firebase database integration  
+- Responsive UI design  
+
+Focus:
+- Scalable Angular application structure  
+- Type-safe development with TypeScript  
+- Firebase integration  
+- Clean SCSS-based styling system  
 
 ---
 
 ## Current Focus
 
-```txt
-→ Building modern frontend applications
-→ Improving UI/UX quality
-→ Learning advanced frontend architecture
-→ Exploring AI tools for development workflows
-```
+→ Building production-ready Angular applications  
+→ Improving UI/UX quality and design systems  
+→ Strengthening frontend architecture skills  
+→ Working with Firebase and REST APIs  
+→ Exploring AI tools for development workflows  
 
 ---
 
 ## Connect
 
-- Portfolio → https://miriam-fuchs.net/
-- GitHub → https://github.com/FuchsMiriam
+Portfolio: https://miriam-fuchs.net/  
+GitHub: https://github.com/FuchsMiriam
 
 ---
 
 <div align="center">
 
-Minimal. Functional. Thoughtful.
+Minimal. Structured. Functional.
 
 </div>
