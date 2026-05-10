@@ -2,7 +2,7 @@
 
 # Miriam Fuchs
 
-### Frontend Developer • Modern Web Experiences • UI-Focused
+### Frontend Developer crafting clean and modern web experiences.
 
 <br/>
 
