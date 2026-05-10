@@ -19,7 +19,7 @@ Building clean interfaces, thoughtful UX and modern frontend experiences.
 
 ## About
 
-Frontend developer with a focus on modern interfaces, usability and clean visual design.
+Building structured and scalable frontend applications with a focus on usability and design systems.
 
 Interested in:
 
@@ -55,18 +55,6 @@ Creative frontend concepts, layouts and interaction ideas.
 
 ### Business & Product Thinking
 Projects combining technical implementation with strategic and user-focused thinking.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FuchsMiriam&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuchsMiriam&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
 
 ---
 
