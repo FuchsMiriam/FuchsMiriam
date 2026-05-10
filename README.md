@@ -10,8 +10,8 @@ Frontend Developer crafting structured, scalable and clean web applications with
 
 <br/>
 
-Portfolio: https://miriam-fuchs.net/  
-GitHub: https://github.com/FuchsMiriam
+🌐 Portfolio → https://miriam-fuchs.net  
+💻 GitHub → https://github.com/FuchsMiriam
 
 </div>
 
