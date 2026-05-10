@@ -47,14 +47,14 @@ Tools: Git, VS Code, CMS Integration
 
 ## Selected Projects
 
-### Modern Web Interfaces
-Clean frontend projects focused on usability, performance and responsive design.
+### Angular Applications
+Modern frontend applications built with Angular, focusing on structure, scalability and maintainable code architecture.
 
-### UI Experiments
-Creative frontend concepts, layouts and interaction ideas.
+### UI & Component Design
+Interface-focused development with Material Design, reusable components and clean user experiences.
 
-### Business & Product Thinking
-Projects combining technical implementation with strategic and user-focused thinking.
+### Firebase Integrations
+Applications with real-time data handling, authentication and backend services powered by Firebase.
 
 ---
 
